@@ -1,2 +1,2 @@
 # pydata
-A data-feed for users of pu
+A data-feed for users of economical languages...
